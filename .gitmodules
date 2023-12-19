@@ -1,3 +1,6 @@
 [submodule "MultiMAE"]
 	path = MultiMAE
 	url = https://github.com/EPFL-VILAB/MultiMAE.git
+[submodule "LIMU-BERT-Public"]
+	path = LIMU-BERT-Public
+	url = https://github.com/dapowan/LIMU-BERT-Public.git
