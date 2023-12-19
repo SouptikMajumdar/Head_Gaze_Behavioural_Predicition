@@ -1,0 +1,3 @@
+[submodule "MultiMAE"]
+	path = MultiMAE
+	url = https://github.com/EPFL-VILAB/MultiMAE.git
